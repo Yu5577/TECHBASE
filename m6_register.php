@@ -46,3 +46,8 @@ if (isset($_POST["submit"]) &&
     <input type="submit" name="submit" value="送信">
 
 </form>
+
+<p>
+    すでにアカウントをお持ちの方は
+    <a href="m6_login.php">ログイン</a>
+</p>

@@ -11,6 +11,11 @@
     <input type = "submit" name = "submit" value = "ログイン">
 </form>
 
+<p>
+    アカウントをお持ちでない方は
+    <a href="m6_register.php">新規登録</a>
+</p>
+
 <?php
   if (isset($_POST["submit"]) && !empty($_POST["email"]) && !empty($_POST["password"])) {
       
