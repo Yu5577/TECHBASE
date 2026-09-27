@@ -1,4 +1,5 @@
 # 就活情報共有サービス　就勝つ掲示板
+https://tech-base.net/tb-280669/m6_index.php
 
 ## 概要
 
